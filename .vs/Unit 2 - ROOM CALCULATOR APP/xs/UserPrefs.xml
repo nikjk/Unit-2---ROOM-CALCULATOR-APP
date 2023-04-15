@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{CAD1E885-4A34-4F10-BAAA-373BD3918F9E}|Default">
+﻿<Properties StartupConfiguration="{CAD1E885-4A34-4F10-BAAA-373BD3918F9E}|Default" GitUserInfo="UsingMD">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Unit_2202_220-_220ROOM_220CALCULATOR FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Unit_2202_220-_220ROOM_220CALCULATOR PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

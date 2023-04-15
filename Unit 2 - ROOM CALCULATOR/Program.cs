@@ -1,16 +1,12 @@
 ﻿Console.WriteLine("Please enter the length of the classroom.");
 
-string userinput = Console.ReadLine();
-
-int length = int.Parse(userinput);
+int length = int.Parse(Console.ReadLine());
 
 Console.WriteLine();
 
 Console.WriteLine("Please enter the width of the classroom.");
 
-userinput = Console.ReadLine();
-
-int width = int.Parse(userinput);
+int width = int.Parse(Console.ReadLine());
 
 int perimiter = 2 * (length + width);
 
@@ -40,3 +36,5 @@ else if (area >= 650)
 {
     Console.WriteLine("Room is large");
 }
+
+int newvariable = int.Parse(Console.ReadLine());
