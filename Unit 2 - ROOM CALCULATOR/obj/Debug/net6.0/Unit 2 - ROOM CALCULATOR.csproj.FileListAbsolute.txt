@@ -1,0 +1,15 @@
+/Users/nik.kuehn/Projects/Unit 2 - ROOM CALCULATOR APP/Unit 2 - ROOM CALCULATOR/obj/Debug/net6.0/Unit 2 - ROOM CALCULATOR.csproj.AssemblyReference.cache
+/Users/nik.kuehn/Projects/Unit 2 - ROOM CALCULATOR APP/Unit 2 - ROOM CALCULATOR/obj/Debug/net6.0/Unit 2 - ROOM CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nik.kuehn/Projects/Unit 2 - ROOM CALCULATOR APP/Unit 2 - ROOM CALCULATOR/obj/Debug/net6.0/Unit 2 - ROOM CALCULATOR.AssemblyInfoInputs.cache
+/Users/nik.kuehn/Projects/Unit 2 - ROOM CALCULATOR APP/Unit 2 - ROOM CALCULATOR/obj/Debug/net6.0/Unit 2 - ROOM CALCULATOR.AssemblyInfo.cs
+/Users/nik.kuehn/Projects/Unit 2 - ROOM CALCULATOR APP/Unit 2 - ROOM CALCULATOR/obj/Debug/net6.0/Unit 2 - ROOM CALCULATOR.csproj.CoreCompileInputs.cache
+/Users/nik.kuehn/Projects/Unit 2 - ROOM CALCULATOR APP/Unit 2 - ROOM CALCULATOR/bin/Debug/net6.0/Unit 2 - ROOM CALCULATOR
+/Users/nik.kuehn/Projects/Unit 2 - ROOM CALCULATOR APP/Unit 2 - ROOM CALCULATOR/bin/Debug/net6.0/Unit 2 - ROOM CALCULATOR.deps.json
+/Users/nik.kuehn/Projects/Unit 2 - ROOM CALCULATOR APP/Unit 2 - ROOM CALCULATOR/bin/Debug/net6.0/Unit 2 - ROOM CALCULATOR.runtimeconfig.json
+/Users/nik.kuehn/Projects/Unit 2 - ROOM CALCULATOR APP/Unit 2 - ROOM CALCULATOR/bin/Debug/net6.0/Unit 2 - ROOM CALCULATOR.dll
+/Users/nik.kuehn/Projects/Unit 2 - ROOM CALCULATOR APP/Unit 2 - ROOM CALCULATOR/bin/Debug/net6.0/Unit 2 - ROOM CALCULATOR.pdb
+/Users/nik.kuehn/Projects/Unit 2 - ROOM CALCULATOR APP/Unit 2 - ROOM CALCULATOR/obj/Debug/net6.0/Unit 2 - ROOM CALCULATOR.dll
+/Users/nik.kuehn/Projects/Unit 2 - ROOM CALCULATOR APP/Unit 2 - ROOM CALCULATOR/obj/Debug/net6.0/refint/Unit 2 - ROOM CALCULATOR.dll
+/Users/nik.kuehn/Projects/Unit 2 - ROOM CALCULATOR APP/Unit 2 - ROOM CALCULATOR/obj/Debug/net6.0/Unit 2 - ROOM CALCULATOR.pdb
+/Users/nik.kuehn/Projects/Unit 2 - ROOM CALCULATOR APP/Unit 2 - ROOM CALCULATOR/obj/Debug/net6.0/Unit 2 - ROOM CALCULATOR.genruntimeconfig.cache
+/Users/nik.kuehn/Projects/Unit 2 - ROOM CALCULATOR APP/Unit 2 - ROOM CALCULATOR/obj/Debug/net6.0/ref/Unit 2 - ROOM CALCULATOR.dll
